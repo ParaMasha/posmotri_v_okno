@@ -97,7 +97,6 @@ ol {
   flex-grow: 1;
   flex-direction: column;
   gap: 2px;
-  width: calc(100% - 194px);
   padding: 2px;
 }
 
@@ -141,6 +140,7 @@ ol {
   white-space: nowrap;
   overflow: hidden;
   padding-bottom: 5px;
+  width: 200px;
 }
 
 .content__list-item {
@@ -279,7 +279,6 @@ ol {
   width: 15px;
   height: 15px;
   background-color: #fff;
-  position: absolute;
 }
 
 .search-form__label .search-form__pseudo-checkbox {
