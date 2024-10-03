@@ -148,7 +148,7 @@ ol {
 .result {
   display: flex;
   flex-direction: column;
-  max-width: 100%;
+  max-width: 711px;
   padding-top: 78px;
 }
 
